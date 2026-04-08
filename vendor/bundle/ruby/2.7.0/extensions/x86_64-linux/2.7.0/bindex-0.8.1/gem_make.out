@@ -1,0 +1,15 @@
+current directory: /workspaces/ruby-rails-test-repo/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/home/codespace/.rbenv/versions/2.7.8/bin/ruby -I /home/codespace/.rbenv/versions/2.7.8/lib/ruby/2.7.0 -r ./siteconf20260407-25117-1thdo82.rb extconf.rb
+creating Makefile
+
+current directory: /workspaces/ruby-rails-test-repo/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /workspaces/ruby-rails-test-repo/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /workspaces/ruby-rails-test-repo/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20260407-25117-keelkd/skiptrace/internal
